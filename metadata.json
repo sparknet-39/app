@@ -1,0 +1,5 @@
+{
+  "name": "SmartPrep",
+  "description": "A full-stack style educational application (Client-Side) for extracting text from documents and generating study materials like MCQs, Flashcards, and Short Questions using Google Gemini AI.",
+  "requestFramePermissions": []
+}
